@@ -100,3 +100,21 @@ ul {
 .table-color {
   color: blue;
 }
+
+#my-ul li {
+  list-style-type: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  background: yellow;
+  margin: 5px;
+}
+.contein-ul {
+  display: inline-block;
+}
+#my-ul {
+  width: 100%;
+  margin-left: 20px;
+  display: flex;
+  background-color: yellow;
+}
