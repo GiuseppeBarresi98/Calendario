@@ -1,0 +1,102 @@
+body {
+  box-sizing: border-box;
+  background-color: rgb(74, 9, 74);
+  font-family: Arial, Helvetica, sans-serif;
+}
+main {
+  text-align: center;
+  width: 70%;
+  margin: auto;
+  background-color: purple;
+  border-radius: 5%;
+  margin-top: 20px;
+}
+h1 {
+  text-align: left;
+  margin-left: 0;
+  font-size: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+div h1 {
+  background-color: rgb(74, 9, 74);
+  font-size: 2.5rem;
+}
+.number-cont {
+  display: inline-block;
+  width: 6%;
+  border-radius: 50%;
+  background-color: black;
+  margin: 2px;
+  margin-bottom: 2%;
+}
+h5 {
+  font-size: 15px;
+  color: white;
+}
+
+.my-button {
+  text-align: center;
+  margin: auto;
+  margin-top: 5rem;
+  width: 20%;
+  border-radius: 50%;
+  margin-bottom: 20px;
+
+  background-color: red;
+}
+.my-button > button {
+  font-size: 24px;
+  padding: 20px 40px;
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.contein-ul {
+  width: 100%;
+  margin-top: 20%;
+  margin-bottom: 50px;
+}
+ul {
+  padding: 0;
+  background-color: white;
+}
+
+.colors-random-numbers {
+  background-color: yellowgreen;
+}
+
+.player-tab {
+  height: 180px;
+  background-color: black;
+  width: 38%;
+  margin: 20px;
+}
+
+.small-num {
+  width: 10%;
+  height: 50px;
+  display: inline-block;
+  margin: 3px;
+  background-color: yellow;
+  text-align: center;
+}
+
+.h6 {
+  background-color: black;
+  color: white;
+  font-size: 15px;
+  padding: auto;
+  margin-bottom: 5px;
+}
+
+.table-color {
+  color: blue;
+}
