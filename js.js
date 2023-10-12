@@ -24,7 +24,7 @@ for (i = 0; i < 27; i++) {
   playerTab.appendChild(numPlayerTab);
 }
 let allTheh6 = document.querySelectorAll(".my-h6");
-console.log(allTheh6[0]);
+console.log(allTheh6);
 let divPlayerTab = document.querySelectorAll(".small-num");
 playerTab.classList.add("player-tab");
 footer.appendChild(playerTab);
